@@ -1,6 +1,6 @@
 var readLineSync = require('readline-sync');
 
-
+// Adding a comment
 var userName = readLineSync.question("Enter your username: ");
 console.log("Welcome " + userName + " to Do you know the country capitals?")
 console.log("--------------------------------------");
